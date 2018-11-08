@@ -38,3 +38,6 @@
 - transfer the index of 2D matrix to the index of 1D array 
 ### search_2Dmatrix_2
 - start from left bottom or right top, cross out a row, a column, or both
+### fast_power
+- translate power to binary code, decide wether to multiply the result with $base^{2^m}$ according to the mth digit of that binary code
+- use data type ```long``` for result might exceed the range of data type ```int```
