@@ -34,3 +34,7 @@
 ### 3_steps_rotate
 - access components of List with index by ```get()``` and ```set()``` function
 - The ```reverse``` function is concise
+### search_2Dmatrix_mine
+- transfer the index of 2D matrix to the index of 1D array 
+### search_2Dmatrix_2
+- start from left bottom or right top, cross out a row, a column, or both
