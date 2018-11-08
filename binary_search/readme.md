@@ -37,7 +37,9 @@
 ### search_2Dmatrix_mine
 - transfer the index of 2D matrix to the index of 1D array 
 ### search_2Dmatrix_2
-- start from left bottom or right top, cross out a row, a column, or both
+- start from left bottom or right top, **cross out** a row, a column, or both
+  - similar to the idea of **cross out a half** in **binary search**
 ### fast_power
 - translate power to binary code, decide wether to multiply the result with $base^{2^m}$ according to the mth digit of that binary code
+  - similar to the idea of **binary** in **binary search**
 - use data type ```long``` for result might exceed the range of data type ```int```
